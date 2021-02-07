@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name fpv-module-dock)(type Legacy)(uri ${KIPRJMOD}/fpv-module-dock.lib)(options "")(descr ""))
+)
